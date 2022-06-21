@@ -1,0 +1,21 @@
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+}
+.navbar-brand p{
+color: #697bd5;
+text-transform: capitalize;
+margin-bottom: 0;
+}
+.navbar-brand .avatar{
+  width: 32px;
+  height: 32px;
+  border-radius:50% ;
+  background-color: #ffb732;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10px;
+}

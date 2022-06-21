@@ -1,0 +1,19 @@
+
+svg{
+  transform: scale(1.5);
+  fill: #acaeb5;
+}
+.active svg{
+  fill: #697bd5!important;
+}
+.nav-pills .nav-link.active{
+  background-color: #dde7fa;
+  border-right: 2px solid #697bd5;
+}
+.logo-side-menu {
+  background-color: #697bd5;
+}
+.logo-side-menu h3 {
+  color:#fff;
+  text-transform: uppercase;
+}
